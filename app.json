@@ -1,7 +1,7 @@
 {
-    "name": "احدث نسخة من سورس فريدوم!!",
+    "name": "احدث نسخة من سورس دوز!!",
     "description": " يمكنك تشغيل الملفات الصوتية في مباشرتا في القنوات والمجموعات .",
-    "logo": "https://te.legra.ph/file/4807752a011965b771900.jpg",
+    "logo": "https://i.postimg.cc/Znfrz6yB/Picsart-24-04-24-23-23-32-270.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,37 +34,37 @@
       },
       "OWNER_ID": {
         "description": "~ اكتب ايدي المالك او اتركها كما هي .",
-        "value": "1854384004",
+        "value": "2056266430",
         "required": true
         
       },
       "YOUTUBE_IMG_URL": {
         "description": "~  ضع رابط صورة التشغيل .",
-        "value": "https://graph.org/file/8882cbd7cc786826d9ecb.jpg",
+        "value": "https://i.postimg.cc/Znfrz6yB/Picsart-24-04-24-23-23-32-270.jpg",
         "required": true
         
       },
       "SUPPORT_CHAT": {
         "description": "~  ضع قناة الدعم .",
-        "value": "https://t.me/vvyvv6",
+        "value": "https://t.me/WOFKC",
         "required": true
         
       },
       "Muntazer": {
         "description": "~  ضع قناة الاشتراك الاجباري ( لاتنسى رفع البوت مشرف في القناة ) .",
-        "value": "xl444",
+        "value": "WOFKC",
         "required": true
         
       },
       "BOT_IMAGE": {
         "description": "~  ضع صورة كليشة الاشتراك الاجباري ، يمكنك تجاهل هذا الحقل .",
-        "value": "https://te.legra.ph/file/4807752a011965b771900.jpg",
+        "value": "https://i.postimg.cc/Znfrz6yB/Picsart-24-04-24-23-23-32-270.jpg",
         "required": false
         
       },
       "START_IMG_URL": {
         "description": "~  ضع صورة كليشة  الستارت .",
-        "value": "https://te.legra.ph/file/303a0e1d707b04a28a5ad.jpg",
+        "value": "https://i.postimg.cc/Znfrz6yB/Picsart-24-04-24-23-23-32-270.jpg",
         "required": false
         
       },
@@ -98,7 +98,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "~  لاتغيرها أبدا .",
-        "value": "https://github.com/STKR2/RR8R9",
+        "value": "https://github.com/WrmHrokoDpwz/2001",
         "required": true
       }
     },
